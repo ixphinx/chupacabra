@@ -9,7 +9,8 @@ const Data = new Schema({
     msgtel: String,
     msgtext: String,
     list1: String,
-    list2: String
+    list2: String,
+    check: String
 
 
 });
