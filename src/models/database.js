@@ -7,7 +7,9 @@ const Data = new Schema({
     msglastname: String,
     msgmail: String,
     msgtel: String,
-    msgtext: String
+    msgtext: String,
+    list1: String,
+    list2: String
 
 
 });
